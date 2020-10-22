@@ -1,0 +1,1752 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test render 1`] = `
+<div>
+  <section
+    id="welcome"
+  >
+    <div
+      className="container"
+    >
+      /images/spider-logo.svg
+      <h1>
+        SPIDER
+      </h1>
+      <h2>
+        <span>
+          Web Development
+        </span>
+        <span>
+          IT Outsourcing
+        </span>
+        <span>
+          Beyond The Web
+        </span>
+      </h2>
+    </div>
+  </section>
+  <nav
+    className="navbar navbar-expand-lg navbar-light bg-light fixed-top hidden-navbar "
+  >
+    <div
+      className="container"
+    >
+      <div>
+        <a
+          className="navbar-brand"
+          href="#"
+        >
+          <img
+            alt="Spider"
+            src="./images/spider-logo.svg"
+            width={50}
+          />
+          <h1>
+            SPIDER
+          </h1>
+        </a>
+      </div>
+      <button
+        className="toggler collapsed"
+        data-target="#collapsibleNavbar"
+        data-toggle="collapse"
+        id="toggleBtn"
+        type="button"
+      >
+        <span
+          className="icon-bar"
+        />
+      </button>
+      <div
+        className="collapse navbar-collapse "
+        id="collapsibleNavbar"
+      >
+        <ul
+          className="navbar-nav"
+        >
+          <li
+            className="nav-item hover-underline-animation "
+          >
+            <a
+              className="nav-link"
+              href="#"
+            >
+              HOME
+            </a>
+            <span
+              className="sr-only"
+            />
+          </li>
+          <li
+            className="nav-item hover-underline-animation "
+          >
+            <a
+              className="nav-link"
+              href="#about"
+            >
+              ABOUT
+            </a>
+            <span
+              className="sr-only"
+            />
+          </li>
+          <li
+            className="nav-item hover-underline-animation "
+          >
+            <a
+              className="nav-link"
+              href="#service"
+            >
+              SERVICE
+            </a>
+            <span
+              className="sr-only"
+            />
+          </li>
+          <li
+            className="nav-item hover-underline-animation "
+          >
+            <a
+              className="nav-link"
+              href="#technology"
+            >
+              TECHNOLOGY
+            </a>
+            <span
+              className="sr-only"
+            />
+          </li>
+          <li
+            className="nav-item hover-underline-animation "
+          >
+            <a
+              className="nav-link"
+              href="#client"
+            >
+              CLIENT
+            </a>
+            <span
+              className="sr-only"
+            />
+          </li>
+          <li
+            className="nav-item hover-underline-animation "
+          >
+            <a
+              className="nav-link"
+              href="#contact"
+            >
+              CONTACT
+            </a>
+            <span
+              className="sr-only"
+            />
+          </li>
+          <li
+            className="nav-item hover-underline-animation "
+          >
+            <a
+              className="nav-link"
+              href="#career"
+            >
+              CAREER
+            </a>
+            <span
+              className="sr-only"
+            />
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <section
+    className="parallax"
+    data-parallax="scroll"
+    style={
+      Object {
+        "backgroundImage": "url(./images/spider-office-1.jpg)",
+      }
+    }
+  />
+  <section>
+    <div
+      className="container"
+    >
+      <a
+        id="about"
+      >
+        <h2>
+          ABOUT
+        </h2>
+      </a>
+      <p>
+        Spider is the leading 
+        <strong>
+           web development company
+        </strong>
+         based in Ho Chi Minh City, Vietnam.
+      </p>
+      <p>
+        Spider was founded in 2015, focuses on 
+        <strong>
+          web development and IT outsourcing services
+        </strong>
+         for small businesses, startups and agencies in the USA, Europe, Australia, Singapore and Vietnam.
+      </p>
+      <p>
+        We specialize in building 
+        <strong>
+          high-quality websites and applications
+        </strong>
+         using thelatest
+        <strong>
+           web technologies
+        </strong>
+         including
+        <strong>
+           HTML, CSS, JavaScript, PHP and Node.js
+        </strong>
+        .
+      </p>
+      <p>
+        We follow W3C standards using the 
+        <strong>
+          latest web coding standards and best practices
+        </strong>
+         including W3C compliance, semantic web, web accessibility, search engine optimization and mobile-friendly using responsive web design.
+      </p>
+      <p>
+        We believe in offering 
+        <strong>
+          the most efficient, reliable and affordable
+        </strong>
+         web development solutions to our clients.
+      </p>
+      <p>
+        We guarantee to deliver 
+        <strong>
+          clean and high-quality code, maintainable and extensible 
+        </strong>
+        for future development.
+      </p>
+      <p>
+        We will help you to
+        <strong>
+           grow your business and achieve your goals
+        </strong>
+        .
+      </p>
+      <p>
+        We always strive to meet your demands 
+        <strong>
+          beyond expectation
+        </strong>
+        .
+      </p>
+    </div>
+  </section>
+  <section
+    className="parallax"
+    data-parallax="scroll"
+    style={
+      Object {
+        "backgroundImage": "url(./images/spider-office-2.jpg)",
+      }
+    }
+  />
+  <section>
+    <div
+      className="container"
+    >
+      <a
+        id="service"
+      >
+        <h2>
+          SERVICE
+        </h2>
+      </a>
+      <ul
+        className="list"
+      >
+        <li>
+          <img
+            src="/images/frontend.svg"
+            width={100}
+          />
+          <div>
+            <h3>
+              Frontend Development
+            </h3>
+            <p>
+              Bootstrap is the most popular HTML, CSS, and JavaScrip framework for developing responsive, mobile first projects on the web.
+            </p>
+            <p>
+              React is a declarative, efficient, and flexible JavaScript library for building user interfaces.
+            </p>
+            <p>
+              We use Bootstrap for building frontend templates and React for building web applications.
+            </p>
+          </div>
+        </li>
+        <li>
+          <img
+            src="/images/backend.svg"
+            width={100}
+          />
+          <div>
+            <h3>
+              Backend Development
+            </h3>
+            <p>
+              Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications. 
+            </p>
+            <p>
+              PHP is a popular general-purpose scripting language that is especially suited to web development.
+            </p>
+            <p>
+              We use Node.js and Laravel to build web applications and RESTful web services.
+            </p>
+            <p>
+              We build eCommerce websites using WordPress and WooCommerce.
+            </p>
+          </div>
+        </li>
+        <li>
+          <img
+            src="/images/mobile.svg"
+            width={100}
+          />
+          <div>
+            <h3>
+              Application Development
+            </h3>
+            <p>
+              React Native is an open-source mobile application framework to develop applications for Android, iOS and Web.
+            </p>
+            <p>
+              Electron uses Chromium and Node.js to build cross-platform applications using HTML, CSS, and JavaScript technologies.
+            </p>
+            <p>
+               We use Electron to build desktop applications and React Native to build mobile applications.
+            </p>
+          </div>
+        </li>
+        <li>
+          <img
+            src="/images/fullstack.svg"
+            width={100}
+          />
+          <div>
+            <h3>
+              JavaScript Full Stack Development
+            </h3>
+            <p>
+              JavaScript is one of the most popular programming languages in the world.
+            </p>
+            <p>
+              JavaScript is everywhere: web, mobile, desktop and server.
+            </p>
+            <p>
+              We use React to build web applications and Node.js to build RESTful web services.
+            </p>
+          </div>
+        </li>
+        <li>
+          <img
+            src="/images/dedicated.svg"
+            width={100}
+          />
+          <div>
+            <h3>
+              Dedicated Team
+            </h3>
+            <p>
+               We provide dedicated team services to ramp up your development team quickly and efficiently to meet your project deadlines or business needs.
+            </p>
+          </div>
+        </li>
+        <li>
+          <img
+            src="/images/maintenance.svg"
+            width={100}
+          />
+          <div>
+            <h3>
+              Maintenance & Support
+            </h3>
+            <p>
+               We provide maintenance and support services to keep your website up to date, running smoothly, adding new features, fixing bugs and technical issues.
+            </p>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+  <section
+    className="parallax"
+    data-parallax="scroll"
+    style={
+      Object {
+        "backgroundImage": "url(./images/spider-office-3.jpg)",
+      }
+    }
+  />
+  <section>
+    <div
+      className="container"
+    >
+      <a
+        id="technology"
+      >
+        <h2>
+          TECHNOLOGY
+        </h2>
+      </a>
+      <br />
+      <figure>
+        <img
+          alt="spider-technology"
+          src="./images/spider-technologies.jpg"
+        />
+      </figure>
+      <div
+        className="pic"
+      >
+        <a
+          href="//www.w3.org/standards/webdesign/htmlcss"
+          title="GSAP"
+        >
+          <img
+            alt="GSAP"
+            src="https://spider.vn/images/icon_gsap.svg"
+          />
+          GSAP
+        </a>
+        <a
+          href="//www.w3.org/standards/webdesign/htmlcss"
+          title="HTML & CSS"
+        >
+          <img
+            alt="HTML & CSS"
+            src="https://spider.vn/images/icon_html.png"
+          />
+          HTML & CSS
+        </a>
+        <a
+          href="//www.w3.org/standards/webdesign/script"
+          title="JavaScript"
+        >
+          <img
+            alt="JavaScript"
+            src="https://spider.vn/images/icon_js.png"
+          />
+          JavaScript
+        </a>
+        <a
+          href="//babeljs.io"
+          title="Babel"
+        >
+          <img
+            alt="Babel"
+            src="https://spider.vn/images/icon_babel.svg"
+          />
+          Babel
+        </a>
+        <a
+          href="//pugjs.org"
+          title="Pug"
+        >
+          <img
+            alt="Pug"
+            src="https://spider.vn/images/icon_pugjs.svg"
+          />
+          Pug
+        </a>
+        <a
+          href="//sass-lang.com"
+          title="Sass"
+        >
+          <img
+            alt="Sass"
+            src="https://spider.vn/images/icon_sass.svg"
+          />
+          Sass
+        </a>
+        <a
+          href="//getbootstrap.com"
+          title="Bootstrap"
+        >
+          <img
+            alt="Bootstrap"
+            src="https://spider.vn/images/icon_bootstrap.png"
+          />
+          Bootstrap
+        </a>
+        <a
+          href="//material.io"
+          title="Material"
+        >
+          <img
+            alt="Material"
+            src="https://spider.vn/images/icon_material.png"
+          />
+          Material
+        </a>
+        <a
+          href="//jquery.com"
+          title="jQuery"
+        >
+          <img
+            alt="jQuery"
+            src="https://spider.vn/images/icon_jquery.svg"
+          />
+          jQuery
+        </a>
+        <a
+          href="//nextjs.org"
+          title="Next.js"
+        >
+          <img
+            alt="Next.js"
+            src="https://spider.vn/images/icon_nextjs.png"
+          />
+          Next.js
+        </a>
+        <a
+          href="//angular.io"
+          title="Angular"
+        >
+          <img
+            alt="Angular"
+            src="https://spider.vn/images/icon_angular.png"
+          />
+          Angular
+        </a>
+        <a
+          href="//reactjs.org"
+          title="React"
+        >
+          <img
+            alt="React"
+            src="https://spider.vn/images/icon_react.svg"
+          />
+          React
+        </a>
+        <a
+          href="//redux.js.org"
+          title="Redux"
+        >
+          <img
+            alt="Redux"
+            src="https://spider.vn/images/icon_redux.svg"
+          />
+          Redux
+        </a>
+        <a
+          href="//graphql.org"
+          title="GraphQL"
+        >
+          <img
+            alt="GraphQL"
+            src="https://spider.vn/images/icon_graphql.svg"
+          />
+          GraphQL
+        </a>
+        <a
+          href="//vuejs.org"
+          title="Vue"
+        >
+          <img
+            alt="Vue"
+            src="https://spider.vn/images/icon_vue.png"
+          />
+          Vue
+        </a>
+        <a
+          href="//lodash.com"
+          title="Lodash"
+        >
+          <img
+            alt="Lodash"
+            src="https://spider.vn/images/icon_lodash.svg"
+          />
+          Lodash
+        </a>
+        <a
+          href="//underscorejs.org"
+          title="Underscore"
+        >
+          <img
+            alt="Underscore"
+            src="https://spider.vn/images/icon_underscore.png"
+          />
+          Underscore
+        </a>
+        <a
+          href="//backbonejs.org"
+          title="Backbone.js"
+        >
+          <img
+            alt="Backbone.js"
+            src="https://spider.vn/images/icon_backbone.png"
+          />
+          Backbone.js
+        </a>
+        <a
+          href="//emberjs.com"
+          title="Ember.js"
+        >
+          <img
+            alt="Ember.js"
+            src="https://spider.vn/images/icon_ember.png"
+          />
+          Ember.js
+        </a>
+        <a
+          href="//phaser.io"
+          title="Phaser"
+        >
+          <img
+            alt="Phaser"
+            src="https://spider.vn/images/icon_phaser.png"
+          />
+          Phaser
+        </a>
+        <a
+          href="//threejs.org"
+          title="Three.js"
+        >
+          <img
+            alt="Three.js"
+            src="https://spider.vn/images/icon_threejs.png"
+          />
+          Three.js
+        </a>
+        <a
+          href="//d3js.org"
+          title="D3.js"
+        >
+          <img
+            alt="D3.js"
+            src="https://spider.vn/images/icon_d3.png"
+          />
+          D3.js
+        </a>
+        <a
+          href="//www.gatsbyjs.org"
+          title="Gatsby"
+        >
+          <img
+            alt="Gatsby"
+            src="https://spider.vn/images/icon_gatsby.svg"
+          />
+          Gatsby
+        </a>
+        <a
+          href="//www.webcomponents.org"
+          title="Web Components"
+        >
+          <img
+            alt="Web Components"
+            src="https://spider.vn/images/icon_web_components.svg"
+          />
+          Web Components
+        </a>
+        <a
+          href="//www.polymer-project.org"
+          title="Polymer"
+        >
+          <img
+            alt="Polymer"
+            src="https://spider.vn/images/icon_polymer.svg"
+          />
+          Polymer
+        </a>
+        <a
+          href="//developers.google.com/web/progressive-web-apps"
+          title="Progressive Web Apps"
+        >
+          <img
+            alt="Progressive Web Apps"
+            src="https://spider.vn/images/icon_web_app.png"
+          />
+          Progressive Web Apps
+        </a>
+        <a
+          href="//serverless.css-tricks.com"
+          title="Serverless"
+        >
+          <img
+            alt="Serverless"
+            src="https://spider.vn/images/icon_serverless.svg"
+          />
+          Serverless
+        </a>
+        <a
+          href="//headlesscms.org/"
+          title="Headless CMS"
+        >
+          <img
+            alt="Headless CMS"
+            src="undefined"
+          />
+          Headless CMS
+        </a>
+        <a
+          href="//www.php.net"
+          title="PHP"
+        >
+          <img
+            alt="PHP"
+            src="https://spider.vn/images/icon_php.svg"
+          />
+          PHP
+        </a>
+        <a
+          href="//laravel.com"
+          title="Laravel"
+        >
+          <img
+            alt="Laravel"
+            src="https://spider.vn/images/icon_laravel.svg"
+          />
+          Laravel
+        </a>
+        <a
+          href="//octobercms.com"
+          title="October"
+        >
+          <img
+            alt="October"
+            src="https://spider.vn/images/icon_october.png"
+          />
+          October
+        </a>
+        <a
+          href="//symfony.com"
+          title="Symfony"
+        >
+          <img
+            alt="Symfony"
+            src="https://spider.vn/images/icon_polymer.svg"
+          />
+          Symfony
+        </a>
+        <a
+          href="//www.yiiframework.com"
+          title="Yii"
+        >
+          <img
+            alt="Yii"
+            src="https://spider.vn/images/icon_yii.svg"
+          />
+          Yii
+        </a>
+        <a
+          href="//www.codeigniter.com"
+          title="CodeIgniter"
+        >
+          <img
+            alt="CodeIgniter"
+            src="https://spider.vn/images/icon_codeigniter.svg"
+          />
+          CodeIgniter
+        </a>
+        <a
+          href="//wordpress.org"
+          title="WordPress"
+        >
+          <img
+            alt="WordPress"
+            src="https://spider.vn/images/icon_wordpress.svg"
+          />
+          WordPress
+        </a>
+        <a
+          href="//woocommerce.com"
+          title="WooCommerce"
+        >
+          <img
+            alt="WooCommerce"
+            src="https://spider.vn/images/icon_woocommerce.svg"
+          />
+          WooCommerce
+        </a>
+        <a
+          href="//www.drupal.org"
+          title="Drupal"
+        >
+          <img
+            alt="Drupal"
+            src="https://spider.vn/images/icon_drupal.svg"
+          />
+          Drupal
+        </a>
+        <a
+          href="//golang.org"
+          title="Golang"
+        >
+          <img
+            alt="Golang"
+            src="https://spider.vn/images/icon_golang.svg"
+          />
+          Golang
+        </a>
+        <a
+          href="//cordova.apache.org"
+          title="Cordova"
+        >
+          <img
+            alt="Cordova"
+            src="https://spider.vn/images/icon_cordova.svg"
+          />
+          Cordova
+        </a>
+        <a
+          href="//ionicframework.com"
+          title="Ionic"
+        >
+          <img
+            alt="Ionic"
+            src="https://spider.vn/images/icon_ionic.svg"
+          />
+          Ionic
+        </a>
+        <a
+          href="//facebook.github.io/react-native"
+          title="React Native"
+        >
+          <img
+            alt="React Native"
+            src="https://spider.vn/images/icon_react.svg"
+          />
+          React Native
+        </a>
+        <a
+          href="//www.nativescript.org"
+          title="NativeScript"
+        >
+          <img
+            alt="NativeScript"
+            src="https://spider.vn/images/icon_nativescript.svg"
+          />
+          NativeScript
+        </a>
+        <a
+          href="//flutter.dev"
+          title="Flutter"
+        >
+          <img
+            alt="Flutter"
+            src="https://spider.vn/images/icon_flutterio.svg"
+          />
+          Flutter
+        </a>
+        <a
+          href="//electronjs.org"
+          title="Electron"
+        >
+          <img
+            alt="Electron"
+            src="https://spider.vn/images/icon_electronjs.svg"
+          />
+          Electron
+        </a>
+        <a
+          href="//nodejs.org"
+          title="Node.js"
+        >
+          <img
+            alt="Node.js"
+            src="https://spider.vn/images/icon_nodejs.svg"
+          />
+          Node.js
+        </a>
+        <a
+          href="//expressjs.com"
+          title="Express"
+        >
+          <img
+            alt="Express"
+            src="undefined"
+          />
+          Express
+        </a>
+        <a
+          href="//hapi.dev"
+          title="Hapi"
+        >
+          <img
+            alt="Hapi"
+            src="https://spider.vn/images/icon_hapi.svg"
+          />
+          Hapi
+        </a>
+        <a
+          href="//sailsjs.com"
+          title="Sails"
+        >
+          <img
+            alt="Sails"
+            src="https://spider.vn/images/icon_sails.svg"
+          />
+          Sails
+        </a>
+        <a
+          href="//sequelize.org"
+          title="Sequelize"
+        >
+          <img
+            alt="Sequelize"
+            src="https://spider.vn/images/icon_sequelizejs.svg"
+          />
+          Sequelize
+        </a>
+        <a
+          href="//www.meteor.com"
+          title="Meteor"
+        >
+          <img
+            alt="Meteor"
+            src="https://spider.vn/images/icon_meteor.svg"
+          />
+          Meteor
+        </a>
+        <a
+          href="//www.sqlite.org"
+          title="SQLite"
+        >
+          <img
+            alt="SQLite"
+            src="https://spider.vn/images/icon_sqlite.svg"
+          />
+          SQLite
+        </a>
+        <a
+          href="//www.mysql.com"
+          title="MySQL"
+        >
+          <img
+            alt="MySQL"
+            src="https://spider.vn/images/icon_mysql.svg"
+          />
+          MySQL
+        </a>
+        <a
+          href="//www.postgresql.org"
+          title="PostgreSQL"
+        >
+          <img
+            alt="PostgreSQL"
+            src="https://spider.vn/images/icon_postgresql.svg"
+          />
+          PostgreSQL
+        </a>
+        <a
+          href="//www.mongodb.com"
+          title="MongoDB"
+        >
+          <img
+            alt="MongoDB"
+            src="https://spider.vn/images/icon_mongodb.svg"
+          />
+          MongoDB
+        </a>
+        <a
+          href="//redis.io"
+          title="Redis"
+        >
+          <img
+            alt="Redis"
+            src="https://spider.vn/images/icon_redis.svg"
+          />
+          Redis
+        </a>
+        <a
+          href="//www.npmjs.com"
+          title="NPM"
+        >
+          <img
+            alt="NPM"
+            src="https://spider.vn/images/icon_npmjs.svg"
+          />
+          NPM
+        </a>
+        <a
+          href="//yarnpkg.com"
+          title="Yarn"
+        >
+          <img
+            alt="Yarn"
+            src="https://spider.vn/images/icon_yarn.svg"
+          />
+          Yarn
+        </a>
+        <a
+          href="//gruntjs.com"
+          title="Grunt"
+        >
+          <img
+            alt="Grunt"
+            src="https://spider.vn/images/icon_gruntjs.svg"
+          />
+          Grunt
+        </a>
+        <a
+          href="//gulpjs.com"
+          title="Gulp"
+        >
+          <img
+            alt="Gulp"
+            src="https://spider.vn/images/icon_gulp.svg"
+          />
+          Gulp
+        </a>
+        <a
+          href="//parceljs.org"
+          title="Parcel"
+        >
+          <img
+            alt="Parcel"
+            src="https://spider.vn/images/icon_parcel.png"
+          />
+          Parcel
+        </a>
+        <a
+          href="//webpack.js.org"
+          title="Webpack"
+        >
+          <img
+            alt="Webpack"
+            src="https://spider.vn/images/icon_webpack.svg"
+          />
+          Webpack
+        </a>
+        <a
+          href="//eslint.org"
+          title="ESLint"
+        >
+          <img
+            alt="ESLint"
+            src="https://spider.vn/images/icon_eslint.svg"
+          />
+          ESLint
+        </a>
+        <a
+          href="//istanbul.js.org"
+          title="Istanbul"
+        >
+          <img
+            alt="Istanbul"
+            src="https://spider.vn/images/icon_istanbul.png"
+          />
+          Istanbul
+        </a>
+        <a
+          href="//prettier.io"
+          title="Prettier"
+        >
+          <img
+            alt="Prettier"
+            src="https://spider.vn/images/icon_prettier.png"
+          />
+          Prettier
+        </a>
+        <a
+          href="//git-scm.com"
+          title="Git"
+        >
+          <img
+            alt="Git"
+            src="https://spider.vn/images/icon_git.svg"
+          />
+          Git
+        </a>
+        <a
+          href="//www.docker.com"
+          title="Docker"
+        >
+          <img
+            alt="Docker"
+            src="https://spider.vn/images/icon_docker.svg"
+          />
+          Docker
+        </a>
+      </div>
+    </div>
+  </section>
+  <section
+    className="parallax"
+    data-parallax="scroll"
+    style={
+      Object {
+        "backgroundImage": "url(./images/spider-office-4.jpg)",
+      }
+    }
+  />
+  <section>
+    <div
+      className="container"
+    >
+      <a
+        id="client"
+      >
+        <h2>
+          CLIENT
+        </h2>
+      </a>
+      <p>
+        We work closely with our clients and partners to deliver the best results possible.
+      </p>
+      <p>
+        We believe in long-term partnerships with our clients that bring values to both businesses.
+      </p>
+      <p>
+        Here are a few of the many clients that we serve:
+      </p>
+      <br />
+      <div
+        class="pic1"
+      >
+        <img
+          alt="TBWA Vietnam"
+          src="https://spider.vn//images/tbwa-logo.png"
+        />
+        <img
+          alt="EightFour"
+          src="https://spider.vn//images/eightfour-logo.png"
+        />
+        <img
+          alt="NorFeed"
+          src="https://spider.vn//images/nor-feed-logo.png"
+        />
+        <img
+          alt="Grab Vietnam"
+          src="https://spider.vn//images/grab-logo.png"
+        />
+        <img
+          alt="NashTech"
+          src="https://spider.vn//images/nashtech-logo.svg"
+        />
+        <img
+          alt="Pyramid Consulting Vietnam"
+          src="https://spider.vn//images/pyco-logo.png"
+        />
+        <img
+          alt="Asia Plus"
+          src="https://spider.vn//images/asia-plus-logo.png"
+        />
+        <img
+          alt="Coconuts Media"
+          src="https://spider.vn//images/coconuts-logo.png"
+        />
+        <img
+          alt="The Spce Newsroom"
+          src="https://spider.vn//images/thespcenewsroom-logo.png"
+        />
+        <img
+          alt="AiChat"
+          src="https://spider.vn//images/aichat-logo.png"
+        />
+        <img
+          alt="Smart Episodes"
+          src="https://spider.vn//images/smartepisodes-logo.png"
+        />
+        <img
+          alt="Chope"
+          src="https://spider.vn//images/chope-logo.png"
+        />
+        <img
+          alt="RiskTalk"
+          src="https://spider.vn//images/risktalk-logo.png"
+        />
+      </div>
+    </div>
+  </section>
+  <section
+    className="parallax"
+    data-parallax="scroll"
+    style={
+      Object {
+        "backgroundImage": "url(./images/spider-office-5.jpg)",
+      }
+    }
+  />
+  <section>
+    <div
+      class="container"
+    >
+      <a
+        id="career"
+      >
+        <h2>
+          CAREER
+        </h2>
+      </a>
+      <p>
+        At Spider, we respect and care for each other.
+      </p>
+      <p>
+        Please send your CV to our recruitment team at
+        <strong>
+           contact@spider.vn
+        </strong>
+      </p>
+      <div>
+        <a
+          data-toggle="collapse"
+          href="#contentId"
+        >
+          <h3>
+            Frontend Internship
+          </h3>
+        </a>
+        <div
+          class="collapse my-collapse"
+          id="contentId"
+        >
+          <p>
+            We are looking for someone who is motivated, innovative, enthusiastic, hard-working, interested in web technologies and willing to learn.
+          </p>
+          <p>
+            Duration of the internship: 2 to 4 months
+          </p>
+          <h4>
+            Must have:
+          </h4>
+          <ul>
+            <li>
+              Knowledge of HTML, CSS, JavaScript, Bootstrap
+            </li>
+            <li>
+              Major in IT, Computer Science or relevant experience
+            </li>
+            <li>
+              Desire to learn and research
+            </li>
+            <li>
+              Ability to communicate in English
+            </li>
+          </ul>
+          <h4>
+            Nice to have:
+          </h4>
+          <ul>
+            <li>
+              Knowledge of jQuery, React, Node.js
+            </li>
+            <li>
+              Knowledge of ES, Babel, Webpack, Yarn, NPM
+            </li>
+            <li>
+              Passion for Frontend development
+            </li>
+          </ul>
+          <h4>
+            Benefits:
+          </h4>
+          <ul>
+            <li>
+              Monthly internship allowance.
+            </li>
+            <li>
+              After the completion of training, trainee will become official employee.
+            </li>
+          </ul>
+        </div>
+        <br />
+      </div>
+      <div>
+        <a
+          data-toggle="collapse"
+          href="#contentId1"
+        >
+          <h3>
+            Frontend Developer
+          </h3>
+        </a>
+        <div
+          class="collapse my-collapse"
+          id="contentId1"
+        >
+          <h4>
+            Job Description
+          </h4>
+          <ul>
+            <li>
+              <p>
+                 Practical experience in web development using HTML, CSS and JavaScript
+              </p>
+            </li>
+            <li>
+              <p>
+                 Knowledge of JavaScript scope, closure, browser events and cross-browser issues
+              </p>
+            </li>
+            <li>
+              <p>
+                Experience of building websites using best practice techniques such as mobile first, responsive web design and progressive enhancement
+              </p>
+            </li>
+            <li>
+              <p>
+                 Experience in developing robust and efficient code for large scale production applications
+              </p>
+            </li>
+            <li>
+              <p>
+                 Experience in working with Bootstrap, jQuery and JS frameworks such as Angular, React, React Native
+              </p>
+            </li>
+            <li>
+              <p>
+                Experience in working with Node.js
+              </p>
+            </li>
+            <li>
+              <p>
+                Have knowledge about RESTful API and GraphQL
+              </p>
+            </li>
+            <li>
+              <p>
+                Ability to work on a team, set priorities, work under pressure,adapt to demanding situations, and maintain schedules
+              </p>
+            </li>
+            <li>
+              <p>
+                Proficient understanding of code versioning tools, such as Git
+              </p>
+            </li>
+          </ul>
+        </div>
+        <br />
+      </div>
+      <div>
+        <a
+          data-toggle="collapse"
+          href="#contentId2"
+        >
+          <h3>
+            Backend Developer
+          </h3>
+        </a>
+        <div
+          class="collapse my-collapse"
+          id="contentId2"
+        >
+          <h4>
+            Job Description
+          </h4>
+          <ul>
+            <li>
+              <p>
+                 Proven software development experience in PHP.
+              </p>
+            </li>
+            <li>
+              <p>
+                Solid knowledge of object-oriented programming
+              </p>
+            </li>
+            <li>
+              <p>
+                Integration of static templates developed by Frontend developers
+              </p>
+            </li>
+            <li>
+              <p>
+                Build efficient, testable, and reusable PHP modules
+              </p>
+            </li>
+            <li>
+              <p>
+                Follow industry best practices
+              </p>
+            </li>
+            <li>
+              <p>
+                 Troubleshoot to solve architectural challenges and performance problems
+              </p>
+            </li>
+            <li>
+              <p>
+                Practical experience in development of WordPress, Laravel
+              </p>
+            </li>
+            <li>
+              <p>
+                Experience in working experience with Node.js, Hapi
+              </p>
+            </li>
+            <li>
+              <p>
+                Experience in working with MongoDB, MySQL
+              </p>
+            </li>
+            <li>
+              <p>
+                Have knowledge about RESTful API, GraphQL
+              </p>
+            </li>
+            <li>
+              <p>
+                Experience in using Composer for dependency management
+              </p>
+            </li>
+            <li>
+              <p>
+                 Experience in developing robust and efficient code for large scale production applications
+              </p>
+            </li>
+            <li>
+              <p>
+                Ability to work on a team, set priorities, work under pressure, adapt to demanding situations, and maintain schedules
+              </p>
+            </li>
+            <li>
+              <p>
+                Ability to work on a team, set priorities, work under pressure, adapt to demanding situations, and maintain schedules.
+              </p>
+            </li>
+            <li>
+              <p>
+                Familiar with CI/CD build and deployment processes
+              </p>
+            </li>
+          </ul>
+        </div>
+        <br />
+      </div>
+    </div>
+  </section>
+  <section
+    className="parallax"
+    data-parallax="scroll"
+    style={
+      Object {
+        "backgroundImage": "url(./images/spider-office-6.jpg)",
+      }
+    }
+  />
+  <section
+    id="contact"
+  >
+    <div
+      className="container"
+    >
+      <h2>
+        CONTACT
+      </h2>
+      <p>
+        Please do not hesitate to contact us at any time if you have anyfurther questions or concerns and we are always ready to assist you.
+      </p>
+      <p>
+        We would love to work with you on your next projects.
+      </p>
+      <p>
+        Contact us today to discuss your next projects by filling out the enquiry form below or just drop us a line at 
+        <strong>
+          contact@spider.vn
+        </strong>
+        .
+      </p>
+        
+      <form
+        id="contact form"
+        onSubmit={[Function]}
+      >
+        <fieldset>
+          <h3>
+            Contact Information
+          </h3>
+          <div
+            className="form-group"
+          >
+            <label>
+              Full Name
+              <strong>
+                *
+              </strong>
+            </label>
+            <input
+              className="form-control"
+              name="txtFullname"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="form-group"
+          >
+            <label>
+               Email Address 
+              <strong>
+                *
+              </strong>
+            </label>
+            <input
+              className="form-control"
+              name="txtEmail"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="form-group"
+          >
+            <label>
+              Phone Number
+            </label>
+            <input
+              className="form-control"
+              name="txtPhoneNumber"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="form-group"
+          >
+            <label>
+              Company Name
+            </label>
+            <input
+              className="form-control"
+              name="txtCompanyName"
+              onChange={[Function]}
+              type="text"
+              value=""
+            />
+          </div>
+        </fieldset>
+        <fieldset>
+          <h3>
+            Project Information
+          </h3>
+          <div>
+            <label>
+              Project Type 
+              <strong>
+                *
+              </strong>
+            </label>
+          </div>
+          <select
+            className="custom-select mb-3"
+            name="sltProjectType"
+            onChange={[Function]}
+            style={
+              Object {
+                "borderColor": "#f90",
+              }
+            }
+            value="Select Type"
+          >
+            <option
+              value="Select Type"
+            >
+              Select Type
+            </option>
+            <option
+              value="StacticWeb"
+            >
+              StacticWeb
+            </option>
+            <option
+              value="Corporate Website"
+            >
+              Corporate Website
+            </option>
+            <option
+              value="Web Application"
+            >
+              Web Application
+            </option>
+            <option
+              value="Desktop Application"
+            >
+              Desktop Application
+            </option>
+            <option
+              value="Mobile Application"
+            >
+              Mobile Application
+            </option>
+            <option
+              value="Dedicated Team"
+            >
+              Dedicated Team
+            </option>
+            <option
+              value="Maintenance"
+            >
+              Maintenance
+            </option>
+          </select>
+          <label>
+            Estimate Budget 
+            <strong>
+              *
+            </strong>
+          </label>
+          <select
+            className="custom-select mb-3"
+            name="sltBudget"
+            onChange={[Function]}
+            style={
+              Object {
+                "borderColor": "#f90",
+              }
+            }
+            value="Select Budget"
+          >
+            <option
+              value="Select Budget"
+            >
+              Select Budget
+            </option>
+            <option
+              value="Less than $1,000"
+            >
+              Less than $1,000
+            </option>
+            <option
+              value="$1,000 - $3,000"
+            >
+              $1,000 - $3,000
+            </option>
+            <option
+              value=" $3,000 - $5,000"
+            >
+               $3,000 - $5,000
+            </option>
+            <option
+              value="$5,000 - $10,000"
+            >
+              $5,000 - $10,000
+            </option>
+            <option
+              value="More than $10,000"
+            >
+              More than $10,000
+            </option>
+          </select>
+          <label>
+            Project Description 
+            <strong>
+              *
+            </strong>
+          </label>
+          <div
+            className="form-group"
+          >
+            <textarea
+              className="form-control textarea"
+              name="txtDesc"
+              onChange={[Function]}
+              rows={3}
+              value=""
+            />
+          </div>
+        </fieldset>
+        <button
+          className="btnsubmit"
+          onClick={[Function]}
+          type="submit"
+        >
+           REQUEST A QUOTE
+        </button>
+        <h4>
+          Initial data...
+        </h4>
+        ;
+      </form>
+    </div>
+  </section>
+  <section
+    className="parallax"
+    data-parallax="scroll"
+    style={
+      Object {
+        "backgroundImage": "url(./images/spider-office-7.jpg)",
+      }
+    }
+  />
+  <section>
+    <div
+      className="container"
+    >
+      <h2>
+        SPIDER COMPANY LIMITED
+      </h2>
+      <div
+        className="main"
+      >
+        <p>
+          Address:
+          <a
+            href="https://goo.gl/maps/h1ygYS3HS8xfzrPS8"
+            rel="noreferrer"
+            title="Google maps"
+          >
+             8 Hoang Minh Giam Street, Ward 9, Phu Nhuan District, Ho Chi Minh City, Vietnam
+          </a>
+        </p>
+        <p>
+          Mobile:
+          <a
+            href="tel:+84905549909"
+            title="Call us"
+          >
+            +84 90 5549909
+          </a>
+        </p>
+        <p>
+          Email:
+          <a
+            href="mailto:contact@spider.vn"
+            title="Contact us"
+          >
+            contact@spider.vn
+          </a>
+        </p>
+        <p>
+          Website:
+          <a
+            href="//spider.vn"
+            title="Visit our website"
+          >
+            spider.vn
+          </a>
+        </p>
+        <p>
+          Skype:
+          <a
+            href="skype:len.nguyenvan?chat"
+            title="Chat with us"
+          >
+            len.nguyenvan
+          </a>
+        </p>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <div
+      className="container"
+    >
+      <p>
+        Copyright © 2015 - 2020
+        <strong>
+           Spider Company Limited
+        </strong>
+         All rights reserved
+      </p>
+    </div>
+  </footer>
+</div>
+`;

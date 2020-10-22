@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`changes the class when hovered 1`] = `
+<section
+  id="welcome"
+>
+  <div
+    className="container"
+  >
+    <img
+      src="/images/spider-logo.svg"
+      width={210}
+    />
+    <h1>
+      SPIDER
+    </h1>
+    <h2>
+      <span>
+        Web Development
+      </span>
+      <span>
+        IT Outsourcing
+      </span>
+      <span>
+        Beyond The Web
+      </span>
+    </h2>
+  </div>
+</section>
+`;

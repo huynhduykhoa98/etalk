@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`changes the class when hovered 1`] = `
+<section>
+  <div
+    className="container"
+  >
+    <a>
+      <h2>
+        SPIDER COMPANY LIMITED
+      </h2>
+    </a>
+    <div
+      className="main"
+    >
+      <p>
+        Address:
+        <a
+          href="https://goo.gl/maps/h1ygYS3HS8xfzrPS8"
+          rel="noreferrer"
+          title="Google maps"
+        >
+           8 Hoang Minh Giam Street, Ward 9, Phu Nhuan District, Ho Chi Minh City, Vietnam
+        </a>
+      </p>
+      <p>
+        Mobile:
+        <a
+          href="tel:+84905549909"
+          title="Call us"
+        >
+          +84 90 5549909
+        </a>
+      </p>
+      <p>
+        Email:
+        <a
+          href="mailto:contact@spider.vn"
+          title="Contact us"
+        >
+          contact@spider.vn
+        </a>
+      </p>
+      <p>
+        Website:
+        <a
+          href="//spider.vn"
+          target="_blank"
+          title="Visit our website"
+        >
+          spider.vn
+        </a>
+      </p>
+      <p>
+        Skype:
+        <a
+          href="skype:len.nguyenvan?chat"
+          title="Chat with us"
+        >
+          len.nguyenvan
+        </a>
+      </p>
+    </div>
+  </div>
+</section>
+`;
