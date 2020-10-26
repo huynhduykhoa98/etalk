@@ -4,8 +4,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { withTranslation } from '~/i18n';
 import './index.module.scss';
 const TeacherMenu = ({ t }) => {
-	return (
-		<ul className="nav nav-aside">
+		return (
+				<ul className="nav nav-aside">
 			<li className="nav-item active">
 				<Link href="/teacher/home" as={`/teacher/home`}>
 					<a href={true} className="nav-link">
@@ -31,6 +31,7 @@ const TeacherMenu = ({ t }) => {
 					</a>
 				</Link>
 			</li>
+
 			{/* <li className="nav-item">
 		<Link href="/teacher/salary">
 			<a href={true} className="nav-link">
@@ -212,12 +213,12 @@ const TeacherMenu = ({ t }) => {
 		</Link>
 	</li> */}
 		</ul>
-	);
+		);
 };
 
 const StudentMenu = ({ t }) => {
-	return (
-		<ul className="nav nav-aside">
+		return (
+				<ul className="nav nav-aside">
 			{/* <li className="nav-item active">
 				<Link href="/student/home" as="/student/home">
 					<a href={true} className="nav-link">
@@ -372,6 +373,20 @@ const StudentMenu = ({ t }) => {
 					<a href={true} className="nav-link">
 						<FontAwesomeIcon icon="cubes" className="fas fa-tachometer-alt" />
 						<span>{t('menu-student:package')}</span>
+					</a>
+				</Link>
+			</li>
+			<li className="nav-item">
+				<Link
+					href="/student/profile-teacher"
+					as="/student/profile-teacher"
+				>
+					<a href={true} className="nav-link">
+						<FontAwesomeIcon
+							icon="copy"
+							className="fas fa-copy"
+						/>
+						<span>{t('menu-student:profile-teacher')}</span>
 					</a>
 				</Link>
 			</li>
@@ -549,16 +564,16 @@ const StudentMenu = ({ t }) => {
 				</ul>
 			</li>
 		</ul>
-	);
+		);
 };
 
 const Menu = ({ t, isStudent }) => {
-	// useEffect(() => {
-	// 	feather && feather.replace();
-	// }, []);
-	return (
-		<>
-			<aside className="aside aside-fixed">
+		// useEffect(() => {
+		// 	feather && feather.replace();
+		// }, []);
+		return ( <
+				>
+				<aside className="aside aside-fixed">
 				<div className="aside-header">
 					<Link
 						href={isStudent ? '/student/home' : '/teacher/home'}
@@ -678,13 +693,13 @@ const Menu = ({ t, isStudent }) => {
 					</div>
 					{isStudent ? <StudentMenu t={t} /> : <TeacherMenu t={t} />}
 				</div>
-			</aside>
-		</>
-	);
+			</aside> <
+				/>
+		);
 };
 
 Menu.getInitialProps = async () => ({
-	namespacesRequired: ['menu', 'menu-student'],
+		namespacesRequired: ['menu', 'menu-student'],
 });
 
 export default withTranslation(['menu', 'menu-student'])(Menu);
