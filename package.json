@@ -2,7 +2,7 @@
 	"name": "MonaNextJS",
 	"private": true,
 	"version": "1.0.0",
-	"repository": "https://github.com/huynhduykhoa98/etalk.git",
+	"repository": "https://github.com/chipcop106/etalk-teacher",
 	"engines": {
 		"node": ">=10.0.0"
 	},
